@@ -1,0 +1,30 @@
+body{
+background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612240748_149-p-fioletovo-belii-fon-dlya-prezentatsii-162.jpg);
+}
+.content
+{
+width:700px;
+margin:0 auto;
+padding:20px;
+box-shadow: 0 1px 4px rgba(0, 0, 0, .3), -23px 0 20px -23px rgba(0, 0, 0, .8), 23px 0 20px -23px rgba(0, 0, 0, .8), 0 0 40px rgba(0, 0, 0, .1) inset;
+}
+.content h2
+{
+font: 30px Verdana, Arial, Helvetica, sans-serif;
+color:#444;
+text-align:center;
+}
+.content p
+{
+font: 14px Verdana, Arial, Helvetica, sans-serif;
+color:#444;
+text-indent:20px;
+}
+.element {
+    background: radial-gradient(circle, #b41a1a, #1717fd);
+    width: 500px;
+    height: 500px;
+    }
+    
+   
+   
